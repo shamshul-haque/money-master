@@ -1,2 +1,2 @@
 # To see the live project, copy the bellow link and open it in any browser...
-`shamsh-money-master.surge.sh`
+`shams-money-master.surge.sh`
