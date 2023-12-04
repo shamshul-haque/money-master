@@ -1,2 +1,2 @@
-# To see the live project, copy the bellow link and open it in any browser...
-`shams-money-master.surge.sh`
+# Money Master
+Click here to see the project: [money-master](https://shams-money-master.surge.sh/)
